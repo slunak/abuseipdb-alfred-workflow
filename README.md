@@ -38,7 +38,9 @@ Or you can assign a hotkey to query selected IP address.
 
 ![Workflow Environment Variables](./assets/hotkey-preferences.png)
 
-By default, <kbd>Cmd + Ctrl + A</kbd> is set as a hotkey. You would also need to update the prefix if you changed the keyword. Then select the IP address and use your assigned hotkey to trigger Alfred to query this IP address against AbuseIPDB database. 
+Please note: You would also need to update the prefix if you changed the keyword.
+
+Then select the IP address and use your assigned hotkey to trigger Alfred to query this IP address against AbuseIPDB database. 
 
 ## Additional Information
 
